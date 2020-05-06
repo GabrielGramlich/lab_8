@@ -1,0 +1,35 @@
+/*
+I don't know css, so this is guess work for comments.
+*/
+span.place-name {
+	/*shows item one by one*/
+	display: inline-block;
+	width: 70%;
+}
+
+form.visited-form {
+	/*shows item one by one*/
+	display: inline;
+}
+
+div.wishlist-place {
+	/*move place names in from the left*/
+	margin: 20px;
+}
+
+label {
+	/*move labels in from the left*/
+	display: inline-block;
+	padding-right: 8px;
+}
+
+a.nav-link {
+	/*move navigation links in from the left*/
+	padding-right: 10px;
+}
+
+#add-new-place {
+	/*Change button color*/
+	background-color: darkmagenta;
+	border: indigo;
+}
