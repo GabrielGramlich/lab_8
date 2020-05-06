@@ -1,0 +1,5 @@
+*.pyc
+__pycache__
+venv/
+wishlist/db.sqlite3
+wishlist/geckodriver
